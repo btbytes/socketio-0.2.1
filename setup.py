@@ -8,7 +8,7 @@ setup(
     packages=find_packages(),
     long_description=open(join(dirname(__file__), 'README.rst')).read(),
     install_requires=[
-        'setuptools==3.3',
+        'setuptools==68.2.2',
         'netifaces==0.10.6'
     ],
     author="EvgrDan",
